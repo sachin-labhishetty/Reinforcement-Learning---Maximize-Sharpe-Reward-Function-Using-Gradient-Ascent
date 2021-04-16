@@ -1,1 +1,1 @@
-# Reinforcement-Learning---Maximize-Sharpe-Reward-Function-Using-Gradient-Ascent
+# Reinforcement Learning - Maximize Sharpe (Reward Function) Using Gradient Ascent
